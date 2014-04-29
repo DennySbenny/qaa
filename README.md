@@ -1,2 +1,4 @@
 qaa
 ===
+
+MIT Licence
